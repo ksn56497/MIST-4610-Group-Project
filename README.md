@@ -29,7 +29,7 @@ Revenue is tracked through the Payments entity, which records transactions assoc
 
 <img width="1020" height="867" alt="image" src="https://github.com/user-attachments/assets/695598ca-3eee-45cc-abee-bcdef950898c" />
 
-### Data Dictionary:
+## Data Dictionary:
 <img width="822" height="675" alt="image" src="https://github.com/user-attachments/assets/0a106d4d-3ba8-4908-8750-10a37b1f16a3" />
 <img width="821" height="282" alt="image" src="https://github.com/user-attachments/assets/806cde52-eee6-4ec5-a3b7-7b9171d11b15" />
 <img width="816" height="710" alt="image" src="https://github.com/user-attachments/assets/334295bc-caa4-48c7-beb8-072f835cb88d" />
