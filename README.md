@@ -29,15 +29,23 @@ Revenue is tracked through the Payments entity, which records transactions assoc
 
 <img width="1020" height="867" alt="image" src="https://github.com/user-attachments/assets/695598ca-3eee-45cc-abee-bcdef950898c" />
 
-## Data Dictionary:
-<img width="812" height="667" alt="image" src="https://github.com/user-attachments/assets/3c92fcb0-4e14-4dc7-8a7d-2904205c5d4a" />
-<img width="896" height="567" alt="image" src="https://github.com/user-attachments/assets/95b5f273-9803-4859-b49d-5dd0bb1c9413" />
-<img width="842" height="836" alt="image" src="https://github.com/user-attachments/assets/4e1d98e3-9bad-4c29-9eda-13ba30c3ce3f" />
-<img width="818" height="343" alt="image" src="https://github.com/user-attachments/assets/c0697dc0-8279-46b0-adc9-be697ecb71af" />
-<img width="815" height="632" alt="image" src="https://github.com/user-attachments/assets/315f4cc4-30d6-4611-bbed-006b8874478b" />
-<img width="825" height="585" alt="image" src="https://github.com/user-attachments/assets/b188fd1f-9b6d-4947-8518-538f245da320" />
-<img width="823" height="410" alt="image" src="https://github.com/user-attachments/assets/63182396-57f7-45ea-8cd0-2a8f0da68bd0" />
-<img width="821" height="711" alt="image" src="https://github.com/user-attachments/assets/ab6e01f1-4bb8-42be-94ff-19e0fb0d5ed9" />
+### Data Dictionary:
+<img width="822" height="675" alt="image" src="https://github.com/user-attachments/assets/0a106d4d-3ba8-4908-8750-10a37b1f16a3" />
+<img width="821" height="282" alt="image" src="https://github.com/user-attachments/assets/806cde52-eee6-4ec5-a3b7-7b9171d11b15" />
+<img width="816" height="710" alt="image" src="https://github.com/user-attachments/assets/334295bc-caa4-48c7-beb8-072f835cb88d" />
+<img width="816" height="332" alt="image" src="https://github.com/user-attachments/assets/21e083fb-cb21-4084-83df-9c737b7f1a62" />
+<img width="812" height="321" alt="image" src="https://github.com/user-attachments/assets/f458eb8c-5862-4707-b88e-ed5cf5cefd21" />
+<img width="817" height="640" alt="image" src="https://github.com/user-attachments/assets/24b17eb0-d58d-4ad8-abea-791927984094" />
+<img width="817" height="576" alt="image" src="https://github.com/user-attachments/assets/7588816b-25c4-478c-a20e-0890fc402f7f" />
+<img width="812" height="406" alt="image" src="https://github.com/user-attachments/assets/962101a8-7c7a-45c7-b990-fc34a6e62c99" />
+<img width="811" height="687" alt="image" src="https://github.com/user-attachments/assets/d895b71d-3872-4ed5-9274-a08d07081ae2" />
+
+
+
+
+
+
+
 
 
 
