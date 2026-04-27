@@ -11,3 +11,9 @@
 4. John Omolon: [@JohnOmolon](https://github.com/JohnOmolon)
 5. Johan Jerry: [@johanjerry](https://github.com/johanjerry)
 
+##2Dataset Description
+##Questions and Justification
+##Data Manipulations
+##Analysis and Results
+##Streamlit App**
+
